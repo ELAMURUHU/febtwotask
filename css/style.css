@@ -1,0 +1,36 @@
+body{
+	background-color:black;
+	
+}
+section{
+	width:auto;
+	height:350px;
+	background-color:white;
+	margin-left:;
+	margin-top:60px;
+	padding-left:200px;
+	padding-top:70px;
+	background-image:url("../image/hero.png");
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position-x:70%;
+	
+	
+}
+/* div{
+	background-image:url("../image/hero.png");
+	background-position:center-left;
+	width=300px;
+	height=300px;
+} */
+#kim{color:black}
+#tom{color:gray}
+
+input{
+	border-radius:4px;
+	background-color:#66ff66;
+	color:white;
+	width:150px;
+	height:40px;
+	border:none;
+}
